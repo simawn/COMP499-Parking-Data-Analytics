@@ -15,3 +15,4 @@
 # File is too large for GitHub
 data/raw/los-angeles-parking-citations/parking-citations.csv
 data/parking_data_clean_with_zip.csv
+parking_data_clean_2018_zip_geoid.csv
