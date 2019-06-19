@@ -9,7 +9,7 @@ My goal is to answer the following questions:
 - Are we able to predict the number of parking tickets given in a neighbourhood based on the population density and other urban factors such as the number of homes, the number of apartments, and the walkability score?
 - Is such a thing as a parking ticket quota for the agents issuing them?
 
-## Exploratory Data Analysis Results
+## Exploratory Data Analysis
 
 All data are from 2018
 
